@@ -1,5 +1,6 @@
 <div align='center'>
 <h1>Projeto Pokedex</h1>
+<a href='https://unique-medovik-42998c.netlify.app/'>Acesse por aqui</a>
 
 <p>Projeto feito com tutorial do canal
 <a href='https://www.youtube.com/watch?v=SjtdH3dWLa8'>Manual do Dev no youtube</a></p>
